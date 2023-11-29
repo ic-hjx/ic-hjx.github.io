@@ -14,9 +14,6 @@ tags: [TAG]     # TAG names should always be lowercase
 ## 量子阱LED
 
 ​		下图展示了具有多量子阱（Multiple Quantum Wells，MQWs）结构的LED器件能带示意图。为了更好地增加有源区对载流子的捕获几率，提高辐射复合几率，研究人员人为地对LED有源区引入众多“凹坑”，即在有源区引入多异质结结构，且量子阱（quantumwell，QW）的禁带宽度Eg-QW小于量子垒（quantum barrier，QB）禁带宽度Eg-QB。当LED正向偏置时，电子与空穴在外加电场的作用下输运至多量子阱层，不同于同质结结构，电子与空穴将被高效地限制在一个近似二维的空间内，增大了电子和空穴波函数的重合率，提高了他们的复合发光效率。对于一般直接带隙半导体材料，材料对应的发光波长的峰值λ与材料带隙可描述为λ=1.24/Eg，然而，当材料尺寸缩小至几纳米时（如量子阱层），量子效应引起的电子与空穴能级的变化要着重考虑，其对材料的发光波长具有重要的影响。
-![](./D:/文档/研究生/研1/宽禁带/Alternating current electroluminescence from GaN-based nanorod.assets/AjAP4P.jpg)
-
-![量子阱材料的原理PowerPoint](./D:/文档/研究生/研1/宽禁带/Alternating current electroluminescence from GaN-based nanorod.assets/AjAP4P.jpg)
 
 ## 量子限制stack效应
 
@@ -51,8 +48,6 @@ light-emitting diodes </font></center>
 
 ​		纳米球光刻和蓝宝石晶圆上的商用 GaN LED 用于制造纳米棒 LED。制造过程示意性地如图1a所示。
 
-![](./Alternating current electroluminescence from GaN-based nanorod.assets/f1-1700967502077-1.jpg)
-
 <center>图1
 
 
@@ -68,8 +63,6 @@ light-emitting diodes </font></center>
 
 ​		一般来说，**交流驱动的EL器件由发射层和单层或多层绝缘电介质组成，没有对发射层和其他功能层之间的能带匹配进行精确设计**。首先，我们展示了单电介质AC-nLED的特性。单介质ACnLED的示意图如图2a所示，其中蓝宝石衬底用作绝缘层。 LED纳米棒的顶端（p-GaN）电接地，而底端（n-GaN）电浮置，这与传统LED完全不同。载流子的迁移及其辐射复合由施加的交流电场控制。蓝宝石衬底阻止电荷的渗透并保护器件在大偏压下不被击穿。在交变电场驱动下，该器件结构可以建模为与 LED 串联的电容器电路（图 2a 的底部面板）。
 
-![](./Alternating current electroluminescence from GaN-based nanorod.assets/f2-1700967559353-5.jpg)
-
 <center>图2
 
 
@@ -81,8 +74,6 @@ light-emitting diodes </font></center>
 
 ​		单电介质 AC-nLED 的能带图如图 3 所示。考虑到设计的 n-/p-GnN 和 MQW 的存在，由交流电压供电的 nLED 在方面与直流驱动 LED 类似。光发射机制。发光机制是多量子阱中激子的辐射复合，而不是热电子对发射体的撞击激发。 GaN-LED 的 EL 强度取决于 MQW 中辐射复合载流子的数量，包括从 n-GaN 扩散的电子和从 p-GaN 扩散的空穴。
 
-![](./Alternating current electroluminescence from GaN-based nanorod.assets/f3-1700967570613-7.jpg)
-
 <center>图3
 
 
@@ -92,8 +83,6 @@ light-emitting diodes </font></center>
 
 ​		对于单电介质 AC-nLED，空穴和电子在不同偏压极性下从 p-GaN 交替注入。 AC-LED具有另一种结构设计，具有两个介电层，无需外部电荷载流子注入即可工作。如图4a所示，构建了双电介质AC-nLED，其在NCI模式下工作[25]。蓝宝石衬底用作夹在底部电极和nGaN之间的绝缘电介质之一，125μm厚的PET层用作p-GaN和顶部电极之间的另一绝缘电介质层。绝缘蓝宝石衬底和绝缘PET层可以完全抑制外部载流子注入。
 
-![](./D:/文档/研究生/研1/宽禁带/Alternating current electroluminescence from GaN-based nanorod.assets/f4.jpg)
-
 <center>图4
 
 
@@ -102,8 +91,6 @@ light-emitting diodes </font></center>
 ​		图 4c 显示了不同驱动频率下的 EL 光谱。当驱动频率增加时，可以观察到蓝移现象，这是由量子限制的斯塔克效应引起的。发光强度也随着工作电压的增加而增加（图S6）。与单电介质AC-nLED的特性类似，双电介质AC-nLED的I-V曲线几乎是线性的。此外，峰值电流随着频率的增加而增加，如图4e所示。唯一的区别是峰值电流高于具有单一绝缘电介质的器件（图2d）。两种 AC-nLED 都等效于电阻电容电路。由于双介质AC-nLED的工作频率较高，容抗较低，因此工作电流较高。
 
 ​		双电介质AC-nLED的能带图如图5所示。当向顶部电极施加正电压时，n-GaN区域中的电子扩散到MQW并与从p-GaN扩散的空穴结合区域来实现电致发光，如图5a所示。由于 n-GaN 和 p-GaN 端子的电绝缘，系统将快速重新建立热力学平衡（图 5b）。如图5c所示，当随后的反向偏压（负偏压）施加到顶部电极时，电子从p-GaN转移到n-GaN，空穴从n-GaN转移到p-GaN。最后，在反向偏压下可以获得热力学平衡，n-GaN和p-GaN处于积累状态（图5d）。积累的电子和空穴可用于下一个周期的后续辐射复合。
-
-![](./D:/文档/研究生/研1/宽禁带/Alternating current electroluminescence from GaN-based nanorod.assets/f5.jpg)
 
 <center>图5
 
