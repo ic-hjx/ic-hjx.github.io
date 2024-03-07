@@ -6,7 +6,7 @@ categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
 ---
 ```
-
+add something else
 # 前置基础
 
 ​		GaN基LED的实质是InGaN/GaN 多量子阱结构, 其发光区域主要集中在p-GaN的有 源区 [6] . 当对LED施加正向偏置电压时, 注入发光活性区中的少数载流子之间的辐射复合而产生发光现象。
