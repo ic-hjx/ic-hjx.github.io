@@ -35,7 +35,13 @@ categories和tags会自动新建
 ![](/assets/new_file_test.assets/lingboli.png)
 ```
 
+# 自定义首页
+[favicons生成网站](https://realfavicongenerator.net/)
+把`.png`和`.ico`所有文件复制到`/assets/img/favicons/`文件夹下，commit即可。
 
+
+# 自定义头像
+`._config.yaml`文件中的`avatar`参数指向头像文件路径。
 
 
 
