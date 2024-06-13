@@ -1,6 +1,6 @@
 ---
-title: TITLE
-date: 2024-06-13 19:02:00 +/-0800
+title: Ubuntu2204 inout method problem
+date: 2024-06-13 19:02:00 +0800
 categories: [bytalk, linux]
 tags: [ubuntu2204]     # TAG names should always be lowercase
 ---
