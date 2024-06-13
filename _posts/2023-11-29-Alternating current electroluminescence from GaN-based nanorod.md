@@ -1,11 +1,10 @@
-```
 ---
 title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
 ---
-```
+
 add something else
 2024/6/13
 # 前置基础
