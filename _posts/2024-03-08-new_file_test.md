@@ -7,4 +7,4 @@ tags: [bee]     # TAG names should always be lowercase
 
 
 nothing useful, just practice how to post.
-![](/assets/img/sample/绫波丽.png)
+![](/assets/img/sample/lingboli.png)
