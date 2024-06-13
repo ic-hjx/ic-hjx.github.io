@@ -1,7 +1,7 @@
 ---
 title: TITLE
 date: 2024-06-13 19:02:00 +/-0800
-categories: [杂谈, Linux]
+categories: [by-talk, Linux]
 tags: [Ubuntu2204]     # TAG names should always be lowercase
 ---
 
