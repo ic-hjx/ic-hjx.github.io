@@ -1,5 +1,5 @@
 ---
-title: Ubuntu2204 inout method problem
+title: "Ubuntu2204输入法无法使用问题"
 date: 2024-06-13 19:02:00 +0800
 categories: [bytalk, linux]
 tags: [ubuntu2204]     # TAG names should always be lowercase
