@@ -1,8 +1,6 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+title: Alternating current electroluminescence from GaN-based nanorod
+date: 2023-11-29 16:00:00 +/-0800
 ---
 
 add something else
