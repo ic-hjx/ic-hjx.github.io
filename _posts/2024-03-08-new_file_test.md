@@ -43,6 +43,7 @@ categories和tags会自动新建
 # 自定义头像
 `._config.yaml`文件中的`avatar`参数指向头像文件路径。
 
-
+# 自定义light/dark
+`._config.yaml`文件中的`theme_mode`参数, 不设置时可以有按钮切换
 
 
